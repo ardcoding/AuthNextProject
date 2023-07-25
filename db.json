@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "username": "Ahmet", "password": "123" },
+    { "id": 2, "username": "Rüchan", "password": "456" },
+    {"id":3, "username":"Dora", "password":"789"}
+  ]
+}
